@@ -27,7 +27,6 @@ I'm passionate and enthusiastic about building products that solve real-time pro
   <img src="https://user-images.githubusercontent.com/81949743/169054466-56d74e78-ccc2-4398-80d5-35af9a44dd58.png" alt="Express" width="80" style="margin: 10px;"/>
   <img src="https://img.icons8.com/color/60/mongodb.png" alt="MongoDB" width="80" style="margin: 10px;"/>
   <img src="https://img.icons8.com/color/60/000000/git.png" alt="Git" width="80" style="margin: 10px;"/>
-  <img src="https://img.icons8.com/ios-glyphs/60/github.png" alt="GitHub" width="80" style="margin: 10px;"/>
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/60/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman" width="80" style="margin: 10px;"/>
 
 </p>
@@ -48,5 +47,3 @@ I'm passionate and enthusiastic about building products that solve real-time pro
 <img src="https://img.icons8.com/color/40/twitter--v1.png" width="60" style="margin: 10px"/>
   </a>
 </p>
-
----
