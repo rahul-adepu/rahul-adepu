@@ -17,18 +17,21 @@ I recently completed an intensive **Full Stack Developer Course** at **TalentSpr
 ### 🚀 Key Commercial Projects
 
 **Fractional Real-Estate Equity Trading Platform (Algoric)**
+
 *Developed an end-to-end, commercial-grade fractional property-trading platform designed to make real estate land assets tradeable like stock equities*
 * **Backend Engineering:** Engineered secure, scalable RESTful APIs in Next.js (App Router) using TypeScript, utilizing Mongoose ODM to model collections in MongoDB.
 * **Database Optimization:** Designed high-performance schemas and optimized database index queries to support rapid, dynamic property searches.
 * **State Synchronization:** Architected clean, state-managed frontend views with Next.js and TypeScript, ensuring seamless and secure transactional checkout flows.
 
 **Dealzup Location-Based Grocery E-Commerce App (Dealzup)**
+
 *Re-architected and modernized a location-based grocery mobile application built using React Native CLI.*
 * **UI Modernization:** Migrated legacy mobile views into responsive, reusable React Native components using detailed Figma design wireframes.
 * **API Integration:** Integrated location-based REST APIs and managed unified state synchronization to ensure real-time inventory discovery.
 * **Performance Profiling:** Audited mobile app responsiveness and eliminated rendering bottlenecks using Android Studio and iOS Simulators.
 
 **AI Datasets Quality Assurance & Benchmarking (Innodata)**
+
 *Audited and verified complex technical datasets to support large-scale LLM alignment and accuracy.*
 * **Generative Benchmarking:** Evaluated and benchmarked generative Large Language Model (LLM) responses for logical execution, syntax, and accuracy.
 * **Quality Auditing:** Performed Automated Speech Recognition (ASR) evaluations and transcription audits under demanding timelines.
