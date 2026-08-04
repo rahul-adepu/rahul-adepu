@@ -1,49 +1,51 @@
-<div align="center">
+### Hi 👋 I'm Rahul Adepu
+#### Software Engineer • React.js & Next.js Developer • Node.js & Express • React Native
 
-# Hi 👋, I'm Rahul Adepu
+### About Me
+I am a performance-driven **Software Engineer** specializing in building responsive, high-performance web and mobile applications using **React.js, Next.js, TypeScript, JavaScript, and Node.js**. My strength lies in bridging the gap between elegant UI design and robust backend architectures—translating complex figma wireframes into pixel-perfect frontend experiences backed by scalable database schemas.
 
-### Full Stack Web Developer
+I recently completed an intensive **Full Stack Developer Course** at **TalentSprint** in Hyderabad, which solidified my knowledge of modern software architecture and database design.
 
-</div>
-
-## 👨🏻‍🎓 About Me
-
-I'm a **B.Sc Computer Science graduate**, and I pursued a **Full-Stack Web Development** course at TalentSprint.  
-I'm passionate and enthusiastic about building products that solve real-time problems.
-
-- 👨‍💻 My Portfolio: **https://rahul-adepu.github.io/Rahul_Adepu_Portfolio**
-- 📫 Contact me: **rahuladepu002@gmail.com**
+- 🔭 **Current Focus:** Open to Frontend Developer, JavaScript Developer, Node.js Developer, and Software Engineer opportunities in Hyderabad.
+- 🌱 **Deepening My Knowledge:** Exploring modern web performance optimization, core state-management architectures, and Generative AI/LLM evaluation.
+- 👨💻 **Portfolio:** [rahul-adepu.vercel.app](https://rahul-adepu.vercel.app)
+- 📫 **Reach me at:** [rahuladepu002@gmail.com](mailto:rahuladepu002@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/rahul-adepu](https://www.linkedin.com/in/rahul-adepu)
 
 ---
 
-## 🛠️ Languages and Tools
+### 🚀 Key Commercial Projects
 
-<p>
-  <img src="https://img.icons8.com/color/60/000000/html-5--v1.png" alt="HTML" width="80" style="margin: 10px;"/>
-  <img src="https://img.icons8.com/color/60/000000/css3.png" alt="CSS" width="80" style="margin: 10px;"/>
-  <img src="https://img.icons8.com/color/60/000000/javascript--v1.png" alt="JavaScript" width="80" style="margin: 10px;"/>
-  <img src="https://img.icons8.com/officel/60/react.png" alt="React" width="80" style="margin: 10px;"/>
-  <img src="https://img.icons8.com/color/60/nodejs.png" alt="Node.js" width="80" style="margin: 10px;"/>
-  <img src="https://user-images.githubusercontent.com/81949743/169054466-56d74e78-ccc2-4398-80d5-35af9a44dd58.png" alt="Express" width="80" style="margin: 10px;"/>
-  <img src="https://img.icons8.com/color/60/mongodb.png" alt="MongoDB" width="80" style="margin: 10px;"/>
-  <img src="https://img.icons8.com/color/60/000000/git.png" alt="Git" width="80" style="margin: 10px;"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/60/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman" width="80" style="margin: 10px;"/>
+**Fractional Real-Estate Equity Trading Platform (Algoric)**
+*Developed an end-to-end, commercial-grade fractional property-trading platform designed to make real estate land assets tradeable like stock equities*
+* **Backend Engineering:** Engineered secure, scalable RESTful APIs in Next.js (App Router) using TypeScript, utilizing Mongoose ODM to model collections in MongoDB.
+* **Database Optimization:** Designed high-performance schemas and optimized database index queries to support rapid, dynamic property searches.
+* **State Synchronization:** Architected clean, state-managed frontend views with Next.js and TypeScript, ensuring seamless and secure transactional checkout flows.
 
-</p>
+**Dealzup Location-Based Grocery E-Commerce App (Dealzup)**
+*Re-architected and modernized a location-based grocery mobile application built using React Native CLI.*
+* **UI Modernization:** Migrated legacy mobile views into responsive, reusable React Native components using detailed Figma design wireframes.
+* **API Integration:** Integrated location-based REST APIs and managed unified state synchronization to ensure real-time inventory discovery.
+* **Performance Profiling:** Audited mobile app responsiveness and eliminated rendering bottlenecks using Android Studio and iOS Simulators.
 
-</p>
+**AI Datasets Quality Assurance & Benchmarking (Innodata)**
+*Audited and verified complex technical datasets to support large-scale LLM alignment and accuracy.*
+* **Generative Benchmarking:** Evaluated and benchmarked generative Large Language Model (LLM) responses for logical execution, syntax, and accuracy.
+* **Quality Auditing:** Performed Automated Speech Recognition (ASR) evaluations and transcription audits under demanding timelines.
 
 ---
 
-## 🌐 Connect with Me
+### 🛠 Tech Stack
 
-<p>
-  <a href="mailto:rahuladepu002@gmail.com" target="_blank">
-<img src="https://img.icons8.com/color/40/gmail-new.png" width="60" style="margin: 10px"/>  </a>
-  <a href="https://www.linkedin.com/in/rahul-adepu/" target="_blank">
-<img src="https://img.icons8.com/color/40/linkedin.png" width="60" style="margin: 10px"/>
-  </a>
-  <a href="https://twitter.com/RahulAdepu7" target="_blank">
-<img src="https://img.icons8.com/color/40/twitter--v1.png" width="60" style="margin: 10px"/>
-  </a>
-</p>
+| Category | Technologies |
+| --- | --- |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
+| **Backend & DB** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white) |
+
+---
+
+### 🤝 Connect with me
+*   **LinkedIn:** [linkedin.com/in/rahul-adepu](https://www.linkedin.com/in/rahul-adepu)
+*   **Email:** [rahuladepu002@gmail.com](mailto:rahuladepu002@gmail.com)
+*   **Portfolio:** [rahul-adepu.vercel.app](https://rahul-adepu.vercel.app)
